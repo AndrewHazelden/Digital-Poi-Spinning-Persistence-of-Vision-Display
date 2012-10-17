@@ -1,0 +1,31 @@
+POV++ Display
+(c) Andrew Hazelden, 2010.
+
+Project Webpage:
+http://bit.ly/POV_DISPLAY
+
+Contact:
+andrewhazelden@gmail.com
+
+Notes:
+Programmed in C code with MikroC Pro for PIC
+Designed for the Mikrochip PIC18F2685 MCU
+32 MHz Internal Oscillator
+
+
+Bill of Materials:
+
+Quantity   RefDes                           Value        
+________________________________________________________________
+
+1          C3                               330nF CAPACITOR        
+1          C4                               100nF CAPACITOR 
+8          D1, D2, D3, D4, D5, D6, D7, D8   BLUE SUPER BRIGHT LED             
+1          ICSP1                            ICSP CONNECTOR             
+8          R1, R2, R3, R4, R5, R6, R7, R8   75 OHM RESISTOR          
+1          U1                               PIC18F2685   
+1          U2                               DC POWER CONNECTOR             
+1          U3                               7805 LINEAR VOLTAGE REGULATOR         
+
+
+
